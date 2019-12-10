@@ -43,11 +43,9 @@ All contributors are expected to read, understand, and adhere to the Contributor
 > _TL;DR_ [See our Code of Conduct](CODE_OF_CONDUCT.md) and let us know if someone has mistreated you.
 
 We take this very seriously. Lavra strongly adheres to our chosen [Code of Conduct](CODE_OF_CONDUCT.md) and we expect
-all of our community members and contributors to be kind to one another. If you have an issue with someone in the
-community or feel that you have been mistreated, please let us know.
-
-We encourage you to get in touch with the Core team or our Community Liaisons should you have a problem with conduct
-from any member of our community. You can bring these to our attention in [our Discord server](https://discord.gg/w9mGSD).
+all of our community members and contributors to be kind to one another. We encourage you to get in touch with the Core
+team or our Community Liaisons should you have an issue with conduct from any member of our community. You can bring
+these to our attention in [our Discord server](https://discord.gg/w9mGSD).
 
 ## License
 
