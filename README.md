@@ -51,7 +51,7 @@ from any member of our community. You can bring these to our attention in [out D
 
 ## License
 
-> _TL;DR;_ [Response is MIT licensed](LICENSE)
+> _TL;DR_ [Response is MIT licensed](LICENSE)
 
 Response is [MIT licensed](LICENSE), which gives you the necessary freedoms to use our platform at no required
 cost, but also allow you to make changes and redistribute as deemed necessary.
