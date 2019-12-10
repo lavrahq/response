@@ -22,7 +22,7 @@ const onwarn = (warning, onwarn) => {
   (warning.code === "CIRCULAR_DEPENDENCY" &&
     /[/\\]@sapper[/\\]/.test(warning.message)) ||
     onwarn(warning);
-}
+};
 
 const dedupe = importee =>
   importee === "svelte" || importee.startsWith("svelte/");
@@ -37,7 +37,7 @@ const setupAliases = () => {
       "js", "svelte"
     ]
   })
-}
+};
 
 const postcssPlugins = (purgecss = false) => {
   return [

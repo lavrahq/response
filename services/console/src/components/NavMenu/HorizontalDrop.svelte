@@ -1,16 +1,16 @@
 <script>
   import { stores } from "@sapper/app"
-  const { session, page } = stores()
+  const { session, page } = stores();
 
-  export let item
-  export let segment
+  export let item;
+  export let segment;
 
   let isOpen = false;
 
-  $: path = $page.path
-  $: isHighlighted = item => {
+  path = $page.path;
+  isHighlighted = item => {
     return segment === item.segment || path.includes(item.href)
-  }
+  };
 
   function handleOpen() {
      isOpen = !isOpen

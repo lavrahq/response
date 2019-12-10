@@ -2,16 +2,15 @@
   import HorizontalLink from './HorizontalLink.svelte';
 
   import {stores} from "@sapper/app";
-  import HorizontalDrop from "./HorizontalDrop.svelte";
 
   const {session, page} = stores();
 
   export let nav = [];
   export let segment;
 
-  $: path = $page.path;
+  path = $page.path;
 
-  let switcherVisible = false
+  let switcherVisible = false;
 
   function handleSwitcherToggle() {
     switcherVisible = true

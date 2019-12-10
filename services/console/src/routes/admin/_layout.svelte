@@ -3,7 +3,7 @@
   import { stores } from "@sapper/app";
   const { page } = stores();
 
-  $: path = $page.path
+  path = $page.path
 </script>
 
 <HorizontalNav {path} />

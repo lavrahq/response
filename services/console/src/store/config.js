@@ -4,4 +4,4 @@ export const config = writable({
     app: {
         name: "test"
     }
-})
+});

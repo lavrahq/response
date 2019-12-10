@@ -5,8 +5,8 @@
     export let item;
     export let segment;
 
-    $: path = $page.path;
-    $: isHighlighted = (item) => {
+    path = $page.path;
+    isHighlighted = (item) => {
         return segment === item.segment || path === item.href;
     }
 </script>

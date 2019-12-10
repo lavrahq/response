@@ -7,4 +7,4 @@ sapper.start({
 })
 	.then(() => {
 		console.log('Welcome to Lavra Response!');
-	})
+	});
