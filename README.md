@@ -31,8 +31,8 @@ contribute code, feel free to help us update your documentation, write tutorials
 donate to allow us to continue development.
 
 If at any point you feel that you have questions about contributing or about how to contribute, please reach out to
-us via an Issue or [our Discord server](https://discord.gg/w9mGSD). There are no bad questions here, but please do
-your due diligence in ensuring that your question hasn't been answered elsewhere!
+us via an Issue or [on Discord](https://discord.gg/w9mGSD). There are no bad questions here, but please do
+your due diligence in ensuring that your question hasn't already been answered.
 
 Response is primary developed by the Lavra Core team, the team behind the open source projects created at Lavra.
 All contributors are expected to read, understand, and adhere to the Contributor guidelines
@@ -45,7 +45,7 @@ All contributors are expected to read, understand, and adhere to the Contributor
 We take this very seriously. Lavra strongly adheres to our chosen [Code of Conduct](CODE_OF_CONDUCT.md) and we expect
 all of our community members and contributors to be kind to one another. We encourage you to get in touch with the Core
 team or our Community Liaisons should you have an issue with conduct from any member of our community. You can bring
-these to our attention in [our Discord server](https://discord.gg/w9mGSD).
+these to our attention in [Discord](https://discord.gg/w9mGSD).
 
 ## License
 
