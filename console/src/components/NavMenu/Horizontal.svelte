@@ -9,7 +9,6 @@
   export let segment;
 
   path = $page.path;
-
   let switcherVisible = false;
 
   function handleSwitcherToggle() {

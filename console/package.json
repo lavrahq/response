@@ -2,6 +2,7 @@
   "name": "@lavrahq/response-console",
   "description": "The Lavra Response Console",
   "version": "0.0.1",
+  "license": "MIT",
   "scripts": {
     "dev": "sapper dev",
     "build": "sapper build --legacy",
@@ -9,7 +10,7 @@
     "start": "node __sapper__/build",
     "cy:run": "cypress run",
     "cy:open": "cypress open",
-    "test": "run-p --race dev cy:run"
+    "test": "npm-run-all -p --race dev cy:run"
   },
   "browserslist": [
     "last 3 version"
@@ -32,6 +33,7 @@
     "@rollup/plugin-json": "^4.0.0",
     "autoprefixer": "^9.5.1",
     "cssnano": "^4.1.10",
+    "cypress": "^3.7.0",
     "postcss": "^7.0.16",
     "postcss-import": "^12.0.1",
     "postcss-url": "^8.0.0",
